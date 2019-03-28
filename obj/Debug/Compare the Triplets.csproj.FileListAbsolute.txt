@@ -1,0 +1,7 @@
+C:\Priya\CPSC 597\Interview Questions\Compare the Triplets\Compare the Triplets\bin\Debug\Compare the Triplets.exe.config
+C:\Priya\CPSC 597\Interview Questions\Compare the Triplets\Compare the Triplets\bin\Debug\Compare the Triplets.exe
+C:\Priya\CPSC 597\Interview Questions\Compare the Triplets\Compare the Triplets\bin\Debug\Compare the Triplets.pdb
+C:\Priya\CPSC 597\Interview Questions\Compare the Triplets\Compare the Triplets\obj\Debug\Compare the Triplets.csprojAssemblyReference.cache
+C:\Priya\CPSC 597\Interview Questions\Compare the Triplets\Compare the Triplets\obj\Debug\Compare the Triplets.csproj.CoreCompileInputs.cache
+C:\Priya\CPSC 597\Interview Questions\Compare the Triplets\Compare the Triplets\obj\Debug\Compare the Triplets.exe
+C:\Priya\CPSC 597\Interview Questions\Compare the Triplets\Compare the Triplets\obj\Debug\Compare the Triplets.pdb
